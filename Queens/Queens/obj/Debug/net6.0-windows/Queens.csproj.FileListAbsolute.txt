@@ -1,0 +1,17 @@
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\obj\Debug\net6.0-windows\Queens.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\obj\Debug\net6.0-windows\Queens.Form1.resources
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\obj\Debug\net6.0-windows\Queens.csproj.GenerateResource.cache
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\obj\Debug\net6.0-windows\Queens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\obj\Debug\net6.0-windows\Queens.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\obj\Debug\net6.0-windows\Queens.AssemblyInfo.cs
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\obj\Debug\net6.0-windows\Queens.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\bin\Debug\net6.0-windows\Queens.exe
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\bin\Debug\net6.0-windows\Queens.deps.json
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\bin\Debug\net6.0-windows\Queens.runtimeconfig.json
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\bin\Debug\net6.0-windows\Queens.dll
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\bin\Debug\net6.0-windows\Queens.pdb
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\obj\Debug\net6.0-windows\Queens.dll
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\obj\Debug\net6.0-windows\refint\Queens.dll
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\obj\Debug\net6.0-windows\Queens.pdb
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\obj\Debug\net6.0-windows\Queens.genruntimeconfig.cache
+C:\Users\georg\Desktop\Programming\AzMogaTukISega\Queens\Queens\obj\Debug\net6.0-windows\ref\Queens.dll
